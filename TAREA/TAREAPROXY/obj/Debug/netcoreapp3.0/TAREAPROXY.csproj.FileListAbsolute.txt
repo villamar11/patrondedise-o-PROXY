@@ -1,0 +1,11 @@
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.exe
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.deps.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.runtimeconfig.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.runtimeconfig.dev.json
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\bin\Debug\netcoreapp3.0\TAREAPROXY.pdb
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\obj\Debug\netcoreapp3.0\TAREAPROXY.csprojAssemblyReference.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\obj\Debug\netcoreapp3.0\TAREAPROXY.AssemblyInfoInputs.cache
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\obj\Debug\netcoreapp3.0\TAREAPROXY.AssemblyInfo.cs
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\obj\Debug\netcoreapp3.0\TAREAPROXY.dll
+C:\Users\josym\Desktop\Jossy\TERCER SEMESTRE\PROGRAMAS DE VISUAL STUDIO\TAREAPROXY\obj\Debug\netcoreapp3.0\TAREAPROXY.pdb
